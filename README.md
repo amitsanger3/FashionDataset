@@ -20,14 +20,9 @@ Fashion dataset have 3 types of dataset. First is the tweets dataset, second lab
 If you are using this dataset, please Cite us.
 
 ```bash
-@article{amitsanger2023contrastiveTfIdf,
-    author = {Amit Kumar Sanger},
-    title = {CONTRASTIVE TF-IDF VECTORIZATION FOR IMPROVED CLASSIFICATION OF FASHION-RELATED TWEETS: A CROSS-DOMAIN TRANSFER LEARNING SEMI-SUPERVISED LEARNING APPROACH},
-    journal = {IRJMETS},
-    volume = {5},
-    year = {2023},
-    number = {152},
-    pages = {2582--5208}
+@article{sangercontrastive,
+  title={CONTRASTIVE TF-IDF VECTORIZATION FOR IMPROVED CLASSIFICATION OF FASHION-RELATED TWEETS: A CROSS-DOMAIN TRANSFER LEARNING SEMI-SUPERVISED LEARNING APPROACH},
+  author={Sanger, Amit Kumar}
 }
 
 ```
